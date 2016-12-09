@@ -58,11 +58,11 @@ public class Sorting{
 		int[] aux = new int[array.length];
 		aux = array;
 		int first = 0;
-		for (int i = first; i < aux.length; i++) {
-			for (int j = 0; j < aux.length; j++) {
-				
-			}
-		}
+//		for (int i = first; i < aux.length; i++) {
+//			for (int j = 0; j < aux.length; j++) {
+//				
+//			}
+//		}
 		while(!isSorted(aux)){
 			System.out.print("1 ");
 			int last = aux.length-1;
